@@ -1,0 +1,114 @@
+{
+    "price": {
+        "fishes": {
+            "bar": 400,
+            "perche jaune": 300,
+            "cardeau": 800,
+            "limande": 300,
+            "bouviere": 900
+        },
+        "insects": {
+            "pieride de la rave": 160,
+            "citrin": 160,
+            "machaon": 240,
+            "tarentule": 8000
+        },
+        "fossils": {
+            "corps de brontotherium": 3500,
+            "empreinte de dinosaure": 1000,
+            "corps de mammouth": 2500
+        },
+        "natural": {
+            "clypeastre": 120,
+            "escargot de mer": 180,
+            "benitier geant": 900,
+            "branche de corail": 500,
+            "mauvaise herbe": 10,
+            "bois": 60,
+            "bois dur": 60,
+            "bois mou": 60,
+            "branche d'arbre": 5,
+            "pierre": 75,
+            "argile": 100,
+            "pepite de fer": 375,
+            "noix de coco": 250,
+            "fruit de l'ile": 100,
+            "fruit autre": 500
+        },
+        "tools": {
+            "hache rudimentaire": "?",
+            "hache de pierre": 560,
+            "hache": 625,
+            "pelle rudimentaire": "?",
+            "pelle": 600,
+            "canne a peche rudimentaire": "?",
+            "canne a peche": "?",
+            "filet rudimentaire": "?",
+            "filet": 600,
+            "lance-pierre": 225
+        },
+        "special": {
+            "ticket miles nook": 10000
+        },
+        "habits": {
+            "chaussure oeuf boise": 800,
+            "chaussure oeuf terrestre": 800,
+            "chaussure oeuf mineral": 800,
+            "chaussure oeuf feuillu": 800,
+            "chaussure oeuf aerien": 800,
+            "chaussure oeuf aquatique": 800,
+            "tenue oeuf boise": 1200,
+            "tenue oeuf terrestre": 1200,
+            "tenue oeuf mineral": 1200,
+            "tenue oeuf feuillu": 1200,
+            "tenue oeuf aerien": 1200,
+            "tenue oeuf aquatique": 1200,
+            "robe de soiree oeuf": 7200,
+            "sac fete des oeufs": 2400,
+            "chapeau festif oeuf": 4800,
+            "coiffe fete des oeufs": 2400,
+            "coquille d'oeuf boise": 800,
+            "coquille d'oeuf terrestre": 800,
+            "coquille d'oeuf mineral": 800,
+            "coquille d'oeuf feuillu": 800,
+            "coquille d'oeuf aerien": 800,
+            "coquille d'oeuf aquatique": 800
+        },
+        "objects": {
+            "pot de succulentes": 220,
+            "commode en bois": 1920,
+            "table tronc": 1800,
+            "banc buche": 960,
+            "jeu en pneu": 20,
+            "pile de pneu": 60,
+            "pneu": 10,
+
+            "oeuf boise": 200,
+            "oeuf terrestre": 200,
+            "oeuf mineral": 200,
+            "oeuf feuillu": 200,
+            "oeuf aerien": 200,
+            "oeuf aquatique": 200,
+            "cloture fete des oeufs unite": 240,
+            "cloture fete des oeufs lot de 10": 2400,
+            "tabouret fete des oeufs": 1200,
+            "table fete des oeufs": 1600,
+            "coiffeuse fete des oeufs": 1600,
+            "horloge murale fete des oeufs": 1200,
+            "lit fete des oeufs": 2400,
+            "lot de ballon fete des oeufs lot 2": 1200,
+            "lot de ballon fete des oeufs lot 1": 1200,
+            "penderie fete des oeufs": 1600,
+            "mur fete des oeufs": 4800,
+            "tapis fete des oeufs": 2400,
+            "couronne fete des oeufs": 2400,
+            "guirlande fete des oeufs": 2400,
+            "lampe fete des oeufs": 1600,
+            "sol fete des oeufs": 4800,
+            "arche fete des oeufs": 4800,
+            "panier fete des oeufs": 1200,
+            "ramponeau d'Albin": 9600,
+            "baguette fete des oeufs": "?"
+        }
+    }
+}
